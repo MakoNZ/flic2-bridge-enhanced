@@ -1,0 +1,20 @@
+secrets.h
+*.bin
+*.elf
+*.map
+build/
+
+# Local secrets
+secrets.h
+
+# Arduino build output
+build/
+*.bin
+*.elf
+*.map
+
+# Editor / OS junk
+.vscode/
+.idea/
+.DS_Store
+*~
